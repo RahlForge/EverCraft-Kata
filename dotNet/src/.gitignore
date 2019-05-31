@@ -1,0 +1,10 @@
+*.pdb
+*.dll
+*.cache
+UnitTestProject1/obj/Debug/UnitTestProject1.csproj.FileListAbsolute.txt
+UnitTestProject1/obj/
+UnitTestProject1/bin/
+packages/
+EverCraft/obj/
+EverCraft/bin/
+.vs/
